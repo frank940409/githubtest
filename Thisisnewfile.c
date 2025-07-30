@@ -2,7 +2,7 @@
 
 int main(){
 
-    printf("The price is : 1000");
+    printf("The price is : 2000");
 
     return 0;
 }
